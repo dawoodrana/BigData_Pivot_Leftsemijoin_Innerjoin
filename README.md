@@ -1,0 +1,1 @@
+# BigData_Pivot_Leftsemijoin_Innerjoin
